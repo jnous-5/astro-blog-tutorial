@@ -6,4 +6,5 @@ export default defineConfig({
   server: {
     host: true,
   },
+  site: "https://localhost:4321",
 });
